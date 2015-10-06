@@ -17,8 +17,6 @@
   files:
     - soubor: all-files-zipped.rar
 
-
-  files:
     # kyrie
     - soubor: Kyrie MST Alt Pokrocily.mid
     - soubor: Kyrie MST Alt Zaciatocnik.mid
