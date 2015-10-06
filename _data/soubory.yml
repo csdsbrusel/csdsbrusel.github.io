@@ -56,18 +56,18 @@
     - soubor: sanctus_A_m2.mid
     - soubor: sanctus_T_m.mid
     - soubor: sanctus_B_m.mid
-    # - soubor: sanctus - all files.rar
+    - soubor: n/a
 
     # angnus dei
     - soubor: Agnus_A_m.mid
     - soubor: Agnus_B_m.mid
     - soubor: Agnus_S_m.mid
     - soubor: Agnus_T_m.mid
-    # - soubor: agnus - all files.rar
+    - soubor: n/a
 
     # benedictus
     - soubor: Benedictus_m.mid
-    # - soubor: benedictus - all files.rar
+    - soubor: n/a
 
 
 
