@@ -15,6 +15,7 @@
 
 - title: Schneider-Trnavský - Alma nox
   files:
+    # kyrie
     - soubor: Kyrie MST Alt Pokrocily.mid
     - soubor: Kyrie MST Alt Zaciatocnik.mid
     - soubor: Kyrie MST Bas Pokrocily.mid
@@ -26,6 +27,7 @@
     - soubor: Kyrie MST Tenor Zaciatocnik.mid
     - soubor: kyrie - all files.rar
 
+    # gloria
     - soubor: Gloria MST Alt Pokrocily.mid
     - soubor: Gloria MST Alt Zaciatocnik.mid
     - soubor: Gloria MST Bas Pokrocily.mid
@@ -37,6 +39,7 @@
     - soubor: Gloria MST Tenor Zaciatocnik.mid
     - soubor: gloria - all files.rar
 
+    # credo
     - soubor: Credo MST Alt Pokrocily.mid
     - soubor: Credo MST Alt Zaciatocnik.mid
     - soubor: Credo MST Bas Pokrocily.mid
@@ -49,14 +52,23 @@
     - soubor: credo - all files.rar
 
     # sanctus
-
-
+    - soubor: sanctus_S_m.mid
+    - soubor: sanctus_A_m2.mid
+    - soubor: sanctus_T_m.mid
+    - soubor: sanctus_B_m.mid
+    # - soubor: sanctus - all files.rar
 
     # angnus dei
-
-
+    - soubor: Agnus_A_m.mid
+    - soubor: Agnus_B_m.mid
+    - soubor: Agnus_S_m.mid
+    - soubor: Agnus_T_m.mid
+    # - soubor: agnus - all files.rar
 
     # benedictus
+    - soubor: Benedictus_m.mid
+    # - soubor: benedictus - all files.rar
+
 
 
 # - title: dvorak - te deum
