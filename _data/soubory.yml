@@ -15,6 +15,10 @@
 
 - title: Schneider-Trnavský - Alma nox
   files:
+    - soubor: all-files-zipped.rar
+
+
+  files:
     # kyrie
     - soubor: Kyrie MST Alt Pokrocily.mid
     - soubor: Kyrie MST Alt Zaciatocnik.mid
@@ -25,7 +29,7 @@
     - soubor: Kyrie MST Sopran Zaciatocnik.mid
     - soubor: Kyrie MST Tenor Pokrocily.mid
     - soubor: Kyrie MST Tenor Zaciatocnik.mid
-    - soubor: kyrie - all files.rar
+    # - soubor: kyrie - all files.rar
 
     # gloria
     - soubor: Gloria MST Alt Pokrocily.mid
@@ -37,7 +41,7 @@
     - soubor: Gloria MST Sopran Zaciatocnik.mid
     - soubor: Gloria MST Tenor Pokrocily.mid
     - soubor: Gloria MST Tenor Zaciatocnik.mid
-    - soubor: gloria - all files.rar
+    # - soubor: gloria - all files.rar
 
     # credo
     - soubor: Credo MST Alt Pokrocily.mid
@@ -49,25 +53,26 @@
     - soubor: Credo MST Sopran Zaciatocnik.mid
     - soubor: Credo MST Tenor Pokrocily.mid
     - soubor: Credo MST Tenor Zaciatocnik.mid
-    - soubor: credo - all files.rar
+    # - soubor: credo - all files.rar
 
     # sanctus
     - soubor: sanctus_S_m.mid
     - soubor: sanctus_A_m2.mid
     - soubor: sanctus_T_m.mid
     - soubor: sanctus_B_m.mid
-    - soubor: n/a
+    # - soubor: n/a
 
     # angnus dei
-    - soubor: Agnus_A_m.mid
-    - soubor: Agnus_B_m.mid
     - soubor: Agnus_S_m.mid
+    - soubor: Agnus_A_m.mid
     - soubor: Agnus_T_m.mid
-    - soubor: n/a
+    - soubor: Agnus_B_m.mid
+    # - soubor: n/a
 
     # benedictus
     - soubor: Benedictus_m.mid
-    - soubor: n/a
+    # - soubor: n/a
+
 
 
 
