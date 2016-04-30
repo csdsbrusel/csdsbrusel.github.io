@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
@@ -15,12 +15,4 @@ Myšlenkou CSB je shromažďování především českých a slovenských amaté
 Orchestr funguje pod taktovkou Mgr. Radima Dvořáka, žáka Dr. Jiřího Libry (vedení sboru) a prof. Lumíra Pivovarského (sborové dirigování).
 Manažerkou tělesa je Zuzana Jirglová.
 
-<br /><br />
-
-<h2>Our current projects / Náse projekty</h2>
-
-<p>
-{% for project in site.data.soubory %} 
-<a href="/projects/{{ project.url }}"> &gt; {{ project.title }}</a></br />
-{% endfor %}
-</p>
+<h2>Our current projects / Naše projekty</h2>

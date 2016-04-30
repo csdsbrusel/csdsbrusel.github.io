@@ -72,11 +72,10 @@
     - soubor: Benedictus_m.mid
     # - soubor: n/a
 
-- title: Dvořak - Te deum
+- title: Dvořák - Te deum
   url: dvorak-te-deum
   files:
-    - soubor: file03.mid
-    - soubor: file04.mid
+    - soubor: 
 
 - title: Fauré - Requiem
   url: faure-requiem
@@ -84,7 +83,7 @@
     - soubor: requiem_6_libera_me.mid
     - soubor: requiem_7_in_paradisum.mid
 
-- title: Dvořak - Rusalka
+- title: Dvořák - Rusalka
   url: dvorak-rusalka
   files:
     - soubor: 

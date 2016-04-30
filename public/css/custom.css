@@ -25,6 +25,10 @@ p.lead {
   margin: 0 auto;
 }
 
+.content.container {
+  text-align: justify;
+}
+
 .file-container a { line-height: 2.5rem; }
 
 @media (min-width: 48em) {

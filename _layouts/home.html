@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{{ content}}
+
+<p>
+{% for project in site.data.soubory %} 
+&gt; <a href="/projects/{{ project.url }}"> {{ project.title }}</a></br />
+{% endfor %}
+</p>
