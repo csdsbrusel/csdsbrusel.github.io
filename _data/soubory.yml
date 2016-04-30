@@ -14,6 +14,7 @@
 
 
 - title: Schneider-Trnavský - Alma nox
+  url: schneider-trnavsky-alma-nox
   files:
     - soubor: all-files-zipped.rar
 
@@ -71,10 +72,19 @@
     - soubor: Benedictus_m.mid
     # - soubor: n/a
 
+- title: Dvořak - Te deum
+  url: dvorak-te-deum
+  files:
+    - soubor: file03.mid
+    - soubor: file04.mid
 
+- title: Fauré - Requiem
+  url: faure-requiem
+  files: 
+    - soubor: requiem_6_libera_me.mid
+    - soubor: requiem_7_in_paradisum.mid
 
-
-# - title: dvorak - te deum
-#   files:
-#     - soubor: file03.mid
-#     - soubor: file04.mid
+- title: Dvořak - Rusalka
+  url: dvorak-rusalka
+  files:
+    - soubor: 

@@ -1,0 +1,33 @@
+---
+layout: default
+description: creates a generic view based on data site.data.soubory and the name of the project in /projects/PROJECT-FILENAME.html
+---
+
+{% assign current_url = page.url|remove:'/projects/' %}
+{% assign current_url = current_url|remove:'/' %}
+
+
+{% for project in site.data.soubory %}
+
+  {% if project.url == current_url %}
+        <h1>{{ project.title }}</h1>
+
+{{ content }}
+
+    <div class="file-container">
+      <h2>Soubory ke sta&#382;ení:</h2>
+
+        {% for file in project.files %}
+            {% assign file_check = file.soubor %}
+            {% if file_check ==  %}
+              <p>No files yet... / Zatím žádné soubory...</p>
+            {% else %}
+            &gt; <a href="soubory/{{ file.soubor }}">{{ file.soubor }}</a><br />
+            {% endif %}
+            {% if file_check contains '.rar' or file_check contains '.zip' %}
+            <br />
+            {% endif %}
+        {% endfor %}
+    </div>
+  {% endif %}
+{% endfor %}
